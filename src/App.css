@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2&display=swap');
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.banner {  
+  background: linear-gradient(to right,rgba(183, 98, 236, 0.5),rgba(88, 0, 146, 0.5)); 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40vh;
+}
